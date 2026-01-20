@@ -1,4 +1,4 @@
-# Image Alignment & Colorization (Prokudin-Gorskii) 📷
+# Image Alignment & Colorization (Prokudin-Gorskii)
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![NumPy](https://img.shields.io/badge/library-NumPy-orange)
