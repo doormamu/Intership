@@ -4,7 +4,7 @@ import numpy as np
 
 from detection import detection_cast, draw_detections, extract_detections
 from metrics import iou_score
-from moviepy import VideoFileClip
+from moviepy.editor import VideoFileClip
 
 
 class Tracker:
